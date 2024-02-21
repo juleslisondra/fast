@@ -1,0 +1,8 @@
+{
+  "name": "fast",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "bb77a20c"
+}
